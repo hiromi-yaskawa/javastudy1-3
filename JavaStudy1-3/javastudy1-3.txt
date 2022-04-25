@@ -1,0 +1,18 @@
+課題提出します。
+
+PS C:\Users\User\Desktop\JavaStudy1-3> javac javac Task1_3.java -encoding utf-8   
+PS C:\Users\User\Desktop\JavaStudy1-3> java Task1_3
+15
+13
+20
+21
+26
+2
+有楽町線
+宮城県仙台市
+東山線
+8
+3
+81
+1
+名古屋駅
